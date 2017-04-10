@@ -1,4 +1,4 @@
 # hello-world
 first one of mine
 
-Try something new!
+I am trying some new things today!
